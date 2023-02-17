@@ -33,6 +33,7 @@
     box-shadow: 0px 0px 10px rgba(red, green, blue, alpha);
 }
 .product-detail .product-container .product-detail-body{
+    padding-left:200px;
     width: 50%;
 }
 .product-detail .product-container .product-detail-body .product-title{
